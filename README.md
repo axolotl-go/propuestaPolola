@@ -1,2 +1,2 @@
 
-https://joel11210.github.io/propuestaPolola/
+https://joel11210.github.io/propuestaPolola/polola
