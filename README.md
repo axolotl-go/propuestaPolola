@@ -1,2 +1,4 @@
+simple page
 
-https://joel11210.github.io/propuestaPolola/polola
+
+https://axolotl-go.github.io/propuestaPolola/polola
